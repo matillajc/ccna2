@@ -133,9 +133,9 @@ vlan 10
 vlan 50
    name IPCCTVLAN
 vlan 69
-   name DELETEME
+   name CED
 vlan 70
-    name SELLME
+    name BLUE
 vlan 71
     name HR
 vlan 100
