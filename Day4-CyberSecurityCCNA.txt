@@ -112,7 +112,7 @@ end
 Goberno: allow all Porn, for freedom of expression!
 config t
 Int gi 1
- NO ip access-group 69 in
+ NO ip access-group 25 in
 end
 
 Task1.2: block admu.edu.ph, dlsu.edu.ph, ccp.edu.ph, ue.edu.ph
